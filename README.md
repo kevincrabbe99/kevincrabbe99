@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Currently studying Computer Science at Illinois State University. \
+Currently studying Computer Science at Illinois State University. 
 
 Right now im working on redoing my personal website.  The concept is a Win95 Emulator, created using React.JS \
 GitHub Repo: https://github.com/kevincrabbe99/kevincrab_be \
-Temp URL: https://master.d2dp50x3jvpcn6.amplifyapp.com/  \\\
+Temp URL: https://master.d2dp50x3jvpcn6.amplifyapp.com/  \
 
 My most recent project was a Rubiks Cube Timer application for the iOS App Store \
 GitHub Repo: https://github.com/kevincrabbe99/Cube-Timer \
